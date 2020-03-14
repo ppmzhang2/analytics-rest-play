@@ -1,0 +1,5 @@
+->         /v1/auth                v1.auth.AuthRouter
+->         /v1/home                v1.HomeRouter
+GET        /                       controllers.Assets.at(path="/public", file="index.html")
+GET        /*file                  controllers.Assets.at(path="/public", file)
+GET        /assets/*file           controllers.Assets.at(path="/public", file)

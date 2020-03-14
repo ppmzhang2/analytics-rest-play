@@ -1,0 +1,14 @@
+* text=auto
+*.scala eol=lf
+*.sql eol=lf
+*.md eol=lf
+*.sbt eol=lf
+*.sh eol=lf
+*.conf eol=lf
+*.xml eol=lf
+routes eol=lf
+messages eol=lf
+*.vue eol=lf
+*.html eol=lf
+*.js eol=lf
+*.css eol=lf

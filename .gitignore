@@ -1,0 +1,14 @@
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.DS_Store
+node_modules
+/public
+package-lock.json
+*.iml
+*.jar
+*.log
